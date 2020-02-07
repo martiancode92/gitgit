@@ -12,4 +12,11 @@ package gitgit;
  */
 public class problema {
     
+    
+    public void primerMensaje(){
+    
+    System.out.println(" Hola");
+    
+    }
+    
 }
